@@ -1,2 +1,2 @@
 # LearningPython
-This is a repository that contains Python programs that I have coded over 3 years, from when I started learning to code in Python till present.
+This is a repository that contains all my work as a beginner in coding in Python. 
